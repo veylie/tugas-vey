@@ -1,0 +1,7 @@
+        .hero {
+            display: flex;
+            flex-wrap: wrap;
+            align-items: center;
+            padding: 60px 50px;
+            background: #f5f8fa;
+        }
